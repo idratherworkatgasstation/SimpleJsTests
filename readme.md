@@ -38,12 +38,13 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
 ```
 
-Устанавливка рекомендованной версии NodeJs
+Устанавка рекомендованной версии NodeJs
 ```bash
 nvm ls-remote
 nvm install v14.17.3
 ```
 В директории с автотестами:
+
 Установка зависимостей
 ```bash
 npm install
