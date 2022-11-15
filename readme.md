@@ -1,4 +1,4 @@
-## Simple test framework
+## Small test framework
 Простой тестовый фреймворк на JavaScript + Jest + WebDriver для веб страниц на примере ok.ru
 
 #### Настройки окружения
